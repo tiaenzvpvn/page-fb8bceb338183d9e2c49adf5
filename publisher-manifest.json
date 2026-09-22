@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5ea2076ae907331cc0f79c8f",
+  "owner": "tiaenzvpvn",
+  "repo": "page-fb8bceb338183d9e2c49adf5",
+  "title": "蚂蚁云流量",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fb8bceb338183d9e2c49adf5",
+      "a": "蚂蚁云流量",
+      "b": "稳定全球clash加速器",
+      "entity": "蚂蚁云流量",
+      "brand": "蚂蚁云流量",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1c4dfb3c6e89369919fcda8834473a75be265ca5eb9ffbf92a5e1ab34403b64c",
+      "content": {
+        "primary_entity": "蚂蚁云流量",
+        "keyword1": "蚂蚁云流量",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器选择客户端，再从订阅配置入手。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先确认设备数量与月度流量，再决定基础版、旗舰版或团队版。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_DESCRIPTION": "，蚂蚁云流量提供基础版、旗舰版与团队版三档订阅，分别支持 3 台、5 台与 20 台设备同时在线。每月流量从 100GB 到 1000GB，旗舰版与团队版覆盖流媒体解锁和专线优化，可按年付节省费用。",
+          "AI_FEATURES_INTRO": "从每月流量、设备数量与订阅周期三方面比较套餐。",
+          "AI_FEATURES_TITLE": "套餐对比要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，适合单人或少量设备；旗舰版 300GB，团队版 1000GB，按需选择不浪费。",
+          "AI_FEATURE_TEXT_2": "设备同时在线数分别为 3 台、5 台和 20 台，家庭多终端或小团队协作可对应升级。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可优先考虑按年付。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先选套餐，再查设备要求，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "蚂蚁云流量提供多档订阅套餐，满足从个人到团队的全球网络访问需求。基础版、旗舰版和团队版在流量、设备数量和线路优化上各有侧重，可按月度或年度周期灵活选择。",
+          "AI_HERO_SUBTITLE": "多设备订阅，稳定连接",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付与年付灵活可选",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "结合设备数量与流量需求，在基础版、旗舰版、团队版之间选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "核对需要同时在线的设备数量，确认所选套餐的设备上限满足要求。",
+          "AI_STEP_TEXT_3": "参考对应客户端的订阅配置文档，导入订阅并完成连接设置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "蚂蚁云流量订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "蚂蚁云流量不同套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，并带 IPLC 专线；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版允许 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超过数量时新设备可能无法同时连接。",
+          "AI_FAQ_QUESTION_3": "按年付费和按月付费哪一个更合适？",
+          "AI_FAQ_ANSWER_3": "计划长期使用的用户可选择年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，通常比逐月累计更省。",
+          "AI_FAQ_QUESTION_4": "手机上应该用哪个客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "Android 可尝试 Clash for Android，iOS 常用 Shadowrocket 或 Quantumult X。各客户端填写订阅地址的方式不同，参照对应文档操作即可。",
+          "AI_FAQ_QUESTION_5": "游戏加速应该选择哪个套餐？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟较敏感的场景；团队版则提供 VIP 专属高带宽节点。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "prbxbsw.cn",
+    "host": "prbxbsw.cn"
+  },
+  "file_hashes": {
+    "index.html": "d6a70fe97b59f24f9213de8beb163a739fb2f0e22956feb713ea7b8a004a4c67",
+    "sitemap.xml": "d613714796133b95b0c778169567a87553aa0a21902958b889b2de19ded64a85",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3a74bd9726a4b9ea66b604990fcb6b38bbbeaea64b6e51eb808f921f21993ff6",
+    "robots.txt": "31d4891754d909ae984be1fe0a215f8410e47d5580b381e30a084ace84b6ecea",
+    "77b74b8f93b57f6b10a978fdcdc7292b.txt": "945214afa4b767a0ad7f41a5d541eb634ccc078a95320621e683c0f7dbe27b1c"
+  },
+  "revision": "de01d2f4b7ac14b6ef84a29289df49990761be246d476a241b652120cd5ca213"
+}
